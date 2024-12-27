@@ -14,3 +14,10 @@ This repository contains a Python-based online chat application that enables rea
 
  - **Lightweight and scalable:** Perfect for small projects or as a foundation for larger systems.
 
+## 🛠️ Technologies Used
+
+ - **Python:** The backbone of the application.
+
+ - **Flask:** For creating a sleek and simple front end.
+
+ - **Sockets:** Enabling real-time communication.
