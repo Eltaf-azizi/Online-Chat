@@ -57,10 +57,10 @@ Make sure you have the following installed:
 
 You're all set! 🎉 Start chatting and enjoy.
 
-🤔 How It Works
+## 🤔 How It Works
 
-Server: The server script uses Python's socket library to manage connections and relay messages.
+1. **Server:** The server script uses Python's socket library to manage connections and relay messages.
 
-Client: Each client connects to the server, enabling them to send and receive messages in real-time.
+2. **Client:** Each client connects to the server, enabling them to send and receive messages in real-time.
 
-Flask Front End: Provides a web interface for chatting, making it accessible and easy to use.
+3. **Flask Front End:** Provides a web interface for chatting, making it accessible and easy to use.
