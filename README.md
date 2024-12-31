@@ -21,3 +21,38 @@ This repository contains a Python-based online chat application that enables rea
  - **Flask:** For creating a sleek and simple front end.
 
  - **Sockets:** Enabling real-time communication.
+
+🚀 Getting Started
+
+Prerequisites
+
+Make sure you have the following installed:
+
+Python 3.x
+
+Flask
+
+Installation
+
+Clone the repository:
+
+git clone https://github.com/yourusername/online-chat.git
+cd online-chat
+
+Install dependencies:
+
+pip install -r requirements.txt
+
+Run the server:
+
+python server.py
+
+Start the client:
+
+python client.py
+
+Open your browser and navigate to:
+
+http://localhost:5000
+
+You're all set! 🎉 Start chatting and enjoy.
