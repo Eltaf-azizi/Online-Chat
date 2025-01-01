@@ -65,12 +65,12 @@ You're all set! 🎉 Start chatting and enjoy.
 
 3. **Flask Front End:** Provides a web interface for chatting, making it accessible and easy to use.
 
-🎯 Potential Enhancements
+## 🎯 Potential Enhancements
 
-Add user authentication and profiles.
+ - Add user authentication and profiles.
 
-Implement encryption for secure communication.
+ - Implement encryption for secure communication.
 
-Enable group chats and file sharing.
+ - Enable group chats and file sharing.
 
-Deploy the app online for broader accessibility.
+ - Deploy the app online for broader accessibility.
