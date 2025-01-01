@@ -75,6 +75,6 @@ You're all set! 🎉 Start chatting and enjoy.
 
  - Deploy the app online for broader accessibility.
 
-🏆 Contributions
+## 🏆 Contributions
 
-Contributions are welcome! Feel free to fork the repository and submit a pull request. Whether it's a bug fix, a new feature, or just a typo correction, your help is appreciated. 💪
+Contributions are **welcome!** Feel free to fork the repository and submit a pull request. Whether it's a bug fix, a new feature, or just a typo correction, your help is appreciated. 💪
