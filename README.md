@@ -84,3 +84,7 @@ Contributions are **welcome!** Feel free to fork the repository and submit a pul
  - Thanks to the Python community for their amazing libraries and tools.
 
  - Special shoutout to Flask for its simplicity and power.
+
+## 📢 Feedback
+
+Have ideas or feedback? Open an issue or reach out to us. We'd love to hear from you! 💬
