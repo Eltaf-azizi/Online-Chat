@@ -78,3 +78,9 @@ You're all set! 🎉 Start chatting and enjoy.
 ## 🏆 Contributions
 
 Contributions are **welcome!** Feel free to fork the repository and submit a pull request. Whether it's a bug fix, a new feature, or just a typo correction, your help is appreciated. 💪
+
+🙌 Acknowledgments
+
+Thanks to the Python community for their amazing libraries and tools.
+
+Special shoutout to Flask for its simplicity and power.
